@@ -1,5 +1,5 @@
-<h1 align = "center"> Matheus Ghizoni 😄</h1>
-<h3 align = "center">👋 Hello, devs! 👋</h3>
+<h1 align> Matheus Ghizoni 😄</h1>
+<h3 align>👋 Hello, devs! 👋</h3>
 
 <h2> Estou aprendendo </h2>
 <div>
